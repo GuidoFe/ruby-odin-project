@@ -1,0 +1,20 @@
+---
+:secret_word:
+- B
+- E
+- T
+- T
+- E
+- R
+:guessed_letters:
+- A
+- E
+- I
+- O
+- U
+:current_stage: 4
+:wrong_letters:
+- A
+- I
+- O
+- U
